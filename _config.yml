@@ -1,11 +1,11 @@
 # Site settings
-author: blessed-mouse-7746
-title: 
+author: joash
+title: “full-stack” systems
 header-img: img/home-bg.png
 email: nyabutijoash@yahoo.com
-copyright_name: blessed-mouse-7746
+copyright_name: joash
 description: > # this means to ignore newlines until "baseurl:"
-  
+  create maintain “full-stack” systems  both web and client-side browser
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: NJoash
 github_username:  me-and-ruby
